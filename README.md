@@ -17,7 +17,7 @@ Users should be able to:
   
 ### Links
 
-- Solution URL: [Add solution URL here](./design/desktop-preview.jpg)
+- Solution URL: [Add solution URL here](./dist/index.html)
  
 
 ## My process
