@@ -1147,3 +1147,31 @@ video {
     text-align: left;
   }
 }
+
+
+
+
+
+
+
+
+.custom-button {
+  box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.blue-bg {
+  background-color: #EDFAFF;
+}
+
+.c-shadow {
+  box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.center-vertically{
+
+  transform: translate(0,-50%);
+}
+.white-img{
+ 
+filter: brightness(0) invert(1);
+};
